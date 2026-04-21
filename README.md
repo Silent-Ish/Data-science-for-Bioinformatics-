@@ -23,7 +23,7 @@ The repository is organized by weekly modules, each focusing on a core algorithm
 * **Techniques:** Markov Chain Monte Carlo (MCMC), Likelihood functions, and Beta distribution priors.
 * **Key Result:** Updated a flat Beta(1,1) prior to a posterior density peaking at **0.73**, matching observed data.
 
-###Week 12: Random Forest Classification
+### Week 12: Random Forest Classification
 * **Goal:** Predict passenger survival on the Titanic dataset using ensemble learning.
 * **Techniques:** Data cleaning, missing value imputation, and building an ensemble of 500 decision trees.
 * **Key Result:** Identified **Sex** and **Passenger Class** as the primary predictors via Variable Importance analysis.
