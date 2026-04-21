@@ -8,7 +8,7 @@ This repository contains a curated collection of machine learning and statistica
 
 The repository is organized by weekly modules, each focusing on a core algorithm or statistical method applicable to biological data analysis.
 
-###Week 9: K-means Clustering
+### Week 9: K-means Clustering
 * **Goal:** Implement a manual K-means algorithm from scratch (no standard libraries) to master partitional clustering logic.
 * **Techniques:** Euclidean distance calculation, centroid initialization, and iterative convergence.
 * **Key Result:** Successfully partitioned data into three distinct clusters with stable centroids.
